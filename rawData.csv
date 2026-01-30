@@ -1,0 +1,23 @@
+Name,Speed,Health,Jump,Parent1,Parent2,Location,Asset
+TestSubject #1,0.2649,22.84,0.7302,Peetah,Nedward,Breeding Barn,C:\Projects\horseStats\horseStats\V6\assets\testsubject1.png
+Test Subject #2,0.2661,22.50,0.7918,Test Subject #1,Nedward,Breeding Barn,C:\Projects\horseStats\horseStats\V6\assets\testsubject2.png
+Test Subject #3,0.2658,22.50,0.7450,Test Subject #2,Orse,Breeding Barn,C:\Projects\horseStats\horseStats\V6\assets\testsubject3.png
+Test Subject #4,0.2702,24.39,0.6888,Test Subject #2,Test Subject #3,Breeding Barn,C:\Projects\horseStats\horseStats\V6\assets\testsubject4.png
+Test Subject #5,0.2740,26.06,0.7472,Test Subject #2,Test Subject #3,Breeding Barn,C:\Projects\horseStats\horseStats\V6\assets\testsubject5.png
+Test Subject #6	,0.2774,24.67,0.7822,Test Subject #5,Test Subject #2,Breeding Barn,C:\Projects\horseStats\horseStats\V6\assets\testsubject6.png
+Nedward,0.2530,23.78,0.6567,Seed,Seed,AbiMoon,C:\Projects\horseStats\horseStats\V6\assets\nedward.png
+Orse,0.2409,26.97,0.6978,Seed,Seed,WarHammer,C:\Projects\horseStats\horseStats\V6\assets\orse.png
+Peetah,0.2524,22.00,0.7732,Seed,Seed,AbiMoon,C:\Projects\horseStats\horseStats\V6\assets\peetah.png
+08ded1f2,0.2275,19.00,0.5532,Wild,Wild,Jurrasic Island - Accacia,C:\Projects\horseStats\horseStats\V6\assets\08ded1f2.png
+Socks,0.2293,23.43,0.7859,Seed,Seed,Stables,C:\Projects\horseStats\horseStats\V6\assets\socks.png
+Flash jr,0.2362,22.35,0.7306,Peetah,Flash,Stables,C:\Projects\horseStats\horseStats\V6\assets\flashjr.png
+Flash,0.2341,23.27,0.7253,Wild,Wild,Stables,C:\Projects\horseStats\horseStats\V6\assets\flash.png
+923d7b31,0.2341,23.73,0.7254,Wild,Wild,Jurrasic Island - Accacia,C:\Projects\horseStats\horseStats\V6\assets\923d7b31.png
+Moose3,0.2046,24.0,0.6186,Wild,Wild,Jurrasic Island - Accacia,C:\Projects\horseStats\horseStats\V6\assets\moose3.png
+ccbf9fde,0.2304,22.13,0.6615,Wild,Wild,Jurrasic Island - Accacia,C:\Projects\horseStats\horseStats\V6\assets\ccbf9fde.png
+3e8514a6,0.2386,26.27,0.7376,Wild,Wild,Jurrasic Island - Accacia,C:\Projects\horseStats\horseStats\V6\assets\3e8514a6.png
+d4e9f293,0.2294,18.78,0.5508,Wild,Wild,Jurrasic Island - Accacia,C:\Projects\horseStats\horseStats\V6\assets\d4e9f293.png
+a227b072,0.2519,22.69,0.7969,Wild,Wild,Jurrasic Island - Accacia,C:\Projects\horseStats\horseStats\V6\assets\a227b072.png
+Frodo,0.2282,24.33,0.7116,Socks,Flash,Farm,C:\Projects\horseStats\horseStats\V6\assets\Frodo.png
+Samwise,0.2897,23.26,0.8045,Test Subject #6,a227b072,WarHammer's Steed,C:\Projects\horseStats\horseStats\V6\assets\Samwise.png
+Pippin,0.3049,24.76,0.8611,Samwise,Test Subject #5,Farm,C:\Projects\horseStats\horseStats\V6\assets\Pippin.png
