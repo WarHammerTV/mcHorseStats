@@ -11,6 +11,7 @@ $form.Text = "Horse Database Gen"
 $form.Size = New-Object System.Drawing.Size(920,560)
 $form.StartPosition = "CenterScreen"
 $form.MaximizeBox = $false
+$form.icon = "C:\Program Files\mcHorseStats\assets\mcHorseStats.ico"
 
 # Breeding menu
 $lblOut = New-Object System.Windows.Forms.Label
@@ -343,3 +344,4 @@ Write-OutputBox "Log file saved: C:\Projects\horseStats\V3\saved\$datetime.txt"
 
 # Launch form
 [void]$form.ShowDialog()
+
